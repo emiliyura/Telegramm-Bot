@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sg;lms;ldgmsofpsfoopeopeope
+=======
+opaopaopa
+>>>>>>> branch1
